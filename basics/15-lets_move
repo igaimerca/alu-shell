@@ -1,2 +1,2 @@
-#!/bin/bash
+!#/bin/bash
 find . -name [A-Z]* -exec mv -t /tmp/u/ {} + 2>/dev/null
